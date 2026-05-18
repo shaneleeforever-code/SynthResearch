@@ -23,6 +23,16 @@ The project is inspired by the idea behind synthetic populations and simulated s
 - Preparing better real-world interview guides.
 - Simulating directional market feedback for internal discussion.
 
+## UI
+<img width="3828" height="1962" alt="HomePage" src="https://github.com/user-attachments/assets/6e6a1d08-65ec-48b9-9e5d-a7cc8e20f58c" />
+<img width="3829" height="1962" alt="ResearchType" src="https://github.com/user-attachments/assets/98b67c4a-81bb-48f2-af12-08f0a3f1dab6" />
+<img width="3828" height="1962" alt="Settings" src="https://github.com/user-attachments/assets/41a556fb-4912-41cc-85ab-2d8c4ea5b9f3" />
+<img width="3822" height="4656" alt="Personas" src="https://github.com/user-attachments/assets/ecbd9b15-c6d9-4403-a07b-b6bad96a60f2" />
+<img width="3828" height="1962" alt="Interview" src="https://github.com/user-attachments/assets/8c61204d-6d51-4a0e-91e9-4482c68d1f3d" />
+<img width="3828" height="1962" alt="Report" src="https://github.com/user-attachments/assets/560fb0e0-5b8f-4463-8bc2-17600a195414" />
+
+
+
 ## Quick Start
 
 ### 1. Clone the repository
