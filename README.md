@@ -1,4 +1,5 @@
 # SynthResearch
+<img width="1536" height="1024" alt="Synthetic Research" src="https://github.com/user-attachments/assets/d7a5311a-3b20-4bbd-a671-031182395aab" />
 
 SynthResearch is a Streamlit application for running synthetic user research. It helps product teams create diverse AI personas, conduct qualitative interviews or focus groups, run quantitative concept scoring, and generate structured research reports.
 
